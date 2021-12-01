@@ -139,7 +139,7 @@ nav{
 	color: red;
 	text-decoration: none; /* This
 	removes the underline */
-	font-weight: bold;
+	font-weight: italic;
 	}
 	a:hover{
 	color: black;
