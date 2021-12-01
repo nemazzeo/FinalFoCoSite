@@ -132,12 +132,11 @@ nav{
 	}
 	nav a{
 	display: inline-block;
-	color: red;
 	padding: 10px; /* This adds space
 	around each of the links */
 	}
 	a{
-	color: #555;
+	color: rgb(236, 15, 15);
 	text-decoration: none; /* This
 	removes the underline */
 	font-weight: bold;
