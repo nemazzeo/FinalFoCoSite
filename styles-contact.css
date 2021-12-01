@@ -136,10 +136,10 @@ nav{
 	around each of the links */
 	}
 	a{
-	color: red;
+	color: #2222;
 	text-decoration: none; /* This
 	removes the underline */
-	font-weight: italic;
+	font-weight: bold;
 	}
 	a:hover{
 	color: black;
