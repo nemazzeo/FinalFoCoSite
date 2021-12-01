@@ -136,7 +136,7 @@ nav{
 	around each of the links */
 	}
 	a{
-	color: #ff0000;
+	color: red;
 	text-decoration: none; /* This
 	removes the underline */
 	font-weight: bold;
